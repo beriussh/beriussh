@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ## Profile Badge Test
-<!-- Github 팔로워 배지 -->
+<!-- Github 팔로워/스타 배지 -->
 ![GitHub followers](https://img.shields.io/github/followers/beriussh?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/beriussh?style=social)
 
-<!-- Github 스타 배지 -->
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![Javascript](https://img.shields.io/badge/Javascript-ES6-yellow)
 ![Java](https://img.shields.io/badge/java-11-red)
