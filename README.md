@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Badge test
+## Profile Badge Test
 <!-- Github 팔로워 배지 -->
 ![GitHub followers](https://img.shields.io/github/followers/beriussh?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/beriussh?style=social)
